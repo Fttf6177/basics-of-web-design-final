@@ -1,0 +1,17 @@
+.ligler{
+    width: 1500px;
+    margin:auto;
+    }
+    .solakaydir{
+    float:left;
+    padding:0 10px 10px 0;
+    }
+
+    body{
+
+        background-image:url(saha1.jpg) ;
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
