@@ -1,0 +1,21 @@
+.ajax{
+    width: 1500px;
+    margin:auto;
+    }
+    .solakaydir{
+    float:left;
+    padding:0 10px 10px 0;
+    }
+
+    .fc{
+        float:right;
+        padding:0 10px 10px 0;
+        }
+
+        .nn{
+            background-color: rgb(168,191,255);
+        }
+
+        a{
+            font-family: fantasy;
+        }
